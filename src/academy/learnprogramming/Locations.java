@@ -1,5 +1,6 @@
 package academy.learnprogramming;
 
+import javax.print.DocFlavor;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
@@ -19,6 +20,9 @@ public class Locations implements Map<Integer, Location> {
         return false;
     }
 
+   byte b= Byte.MAX_VALUE;
+   int i= Integer.MAX_VALUE;
+   short s=Short.MAX_VALUE;
     @Override
     public boolean containsKey(Object key) {
         return false;
