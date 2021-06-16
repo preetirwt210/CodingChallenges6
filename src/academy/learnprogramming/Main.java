@@ -10,8 +10,11 @@ public class Main {
 
 //        System.out.println("Hello!! from Main thread.");
 
+//        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+//      BubbleSort.bubbleSort(intArray);
         int[] intArray = {20, 35, -15, 7, 55, 1, -22};
-      BubbleSort.bubbleSort(intArray);
+        System.out.println("Selection sort: ");
+        SelectionSort.selectionSort(intArray);
 
      }
 
