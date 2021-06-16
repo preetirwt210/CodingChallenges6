@@ -16,9 +16,13 @@ public class Main {
 //        System.out.println("Selection sort: ");
 //        SelectionSort.selectionSort(intArray);
 
+//        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+//        System.out.println("Insertion sort: ");
+//        InsertionSort.insertionSort(intArray);
+
         int[] intArray = {20, 35, -15, 7, 55, 1, -22};
-        System.out.println("Insertion sort: ");
-        InsertionSort.insertionSort(intArray);
+        System.out.println("Shell sort: ");
+        ShellSort.shellSort(intArray);
      }
 
 
