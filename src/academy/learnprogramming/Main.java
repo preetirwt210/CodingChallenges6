@@ -19,10 +19,14 @@ public class Main {
 //        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
 //        System.out.println("Insertion sort: ");
 //        InsertionSort.insertionSort(intArray);
+//
+//        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+//        System.out.println("Shell sort: ");
+//        ShellSort.shellSort(intArray);
 
         int[] intArray = {20, 35, -15, 7, 55, 1, -22};
-        System.out.println("Shell sort: ");
-        ShellSort.shellSort(intArray);
+        System.out.println("Merge sort: ");
+        MergeSort.mergeSort(intArray);
      }
 
 
