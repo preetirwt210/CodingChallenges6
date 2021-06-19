@@ -28,9 +28,13 @@ public class Main {
 //        System.out.println("Merge sort: ");
 //        MergeSort.mergeSort(intArray);
 
+//        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+//        System.out.println("Quick sort: ");
+//        QuickSort.quick(intArray);
+
         int[] intArray = {20, 35, -15, 7, 55, 1, -22};
-        System.out.println("Quick sort: ");
-        QuickSort.quick(intArray);
+        System.out.println("Counting sort: ");
+        CountingSort.counting(intArray);
      }
 
 
