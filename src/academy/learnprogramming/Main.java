@@ -32,7 +32,7 @@ public class Main {
 //        System.out.println("Quick sort: ");
 //        QuickSort.quick(intArray);
 
-        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+        int[] intArray = {2, 5, 9, 8, 2, 8, 7, 10, 4, 3};
         System.out.println("Counting sort: ");
         CountingSort.counting(intArray);
      }
