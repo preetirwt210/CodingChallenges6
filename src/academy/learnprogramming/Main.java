@@ -32,10 +32,15 @@ public class Main {
 //        System.out.println("Quick sort: ");
 //        QuickSort.quick(intArray);
 
-        int[] intArray = {2, 5, 9, 8, 2, 8, 7, 10, 4, 3};
-        System.out.println("Counting sort: ");
-        CountingSort.counting(intArray);
-     }
+//        int[] intArray = {2, 5, 9, 8, 2, 8, 7, 10, 4, 3};
+//        System.out.println("Counting sort: ");
+//        CountingSort.counting(intArray);
+
+        int[] intArray = {4725, 4586, 1330, 8792, 1594, 5729};
+        System.out.println("Radix sort: ");
+        RadixSort.radix(intArray);
+
+    }
 
 
     }
