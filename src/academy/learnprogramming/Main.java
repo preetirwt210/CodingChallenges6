@@ -47,11 +47,11 @@ public class Main {
 //        SortingArrays.sortingArrays(intArray);
 
 
-        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
-        int length= intArray.length;
-        System.out.println("Heap sort: ");
-       HeapSort.sort(intArray);
-       HeapSort.printArray(intArray);
+//        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+//        int length= intArray.length;
+//        System.out.println("Heap sort: ");
+//       HeapSort.sort(intArray);
+//       HeapSort.printArray(intArray);
     }
 
 
