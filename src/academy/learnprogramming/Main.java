@@ -52,6 +52,10 @@ public class Main {
 //        System.out.println("Heap sort: ");
 //       HeapSort.sort(intArray);
 //       HeapSort.printArray(intArray);
+
+        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+        System.out.println("Linear Search: ");
+        LinearSearch.search(intArray);
     }
 
 
