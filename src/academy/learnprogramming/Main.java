@@ -57,9 +57,9 @@ public class Main {
 //        System.out.println("Linear Search: ");
 //        LinearSearch.search(intArray);
 
-        int[] intArray = {1,3,4,5,8,10,76,90};
-        System.out.println("Binary Search: ");
-        BinarySearch.search(intArray);
+//        int[] intArray = {1,3,4,5,8,10,76,90};
+//        System.out.println("Binary Search: ");
+//        BinarySearch.search(intArray);
     }
 
 
