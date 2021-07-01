@@ -69,9 +69,13 @@ public class Main {
 //        System.out.println("Search Minimum: ");
 //        SearchMin.searchMin(intArray);
 
-        int[] intArray = {1,4,3,2,6,5,9,8};
-        System.out.println("Second Largest Element is: ");
-        SecondLargest.secondLargest(intArray);
+//        int[] intArray = {1,4,3,2,6,5,9,8};
+//        System.out.println("Second Largest Element is: ");
+//        SecondLargest.secondLargest(intArray);
+
+        int[] intArray = {1,4,3,2,6,5,9,8}; // 9,8,6,5,4,3,2,1
+        System.out.println("Kth Largest Element is: ");
+        LargestElement.largestElement(intArray);
     }
 
 
