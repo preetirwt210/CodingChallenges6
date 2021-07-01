@@ -61,9 +61,13 @@ public class Main {
 //        System.out.println("Binary Search: ");
 //        BinarySearch.search(intArray);
 
+//        int[] intArray = {1,4,3,2,6,5,9,8};
+//        System.out.println("Search Maximum: ");
+//        SearchMax.searchMax(intArray);
+
         int[] intArray = {1,4,3,2,6,5,9,8};
-        System.out.println("Search Maximum: ");
-        SearchMax.searchMax(intArray);
+        System.out.println("Search Minimum: ");
+        SearchMin.searchMin(intArray);
     }
 
 
