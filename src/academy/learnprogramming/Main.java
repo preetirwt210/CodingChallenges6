@@ -53,13 +53,17 @@ public class Main {
 //       HeapSort.sort(intArray);
 //       HeapSort.printArray(intArray);
 
-        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
-        System.out.println("Linear Search: ");
-        LinearSearch.search(intArray);
+//        int[] intArray = {20, 35, -15, 7, 55, 1, -22};
+//        System.out.println("Linear Search: ");
+//        LinearSearch.search(intArray);
 
 //        int[] intArray = {1,3,4,5,8,10,76,90};
 //        System.out.println("Binary Search: ");
 //        BinarySearch.search(intArray);
+
+        int[] intArray = {1,4,3,2,6,5,9,8};
+        System.out.println("Search Maximum: ");
+        SearchMax.searchMax(intArray);
     }
 
 
