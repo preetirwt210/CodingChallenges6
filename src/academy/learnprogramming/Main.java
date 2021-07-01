@@ -85,6 +85,10 @@ public class Main {
         System.out.println("Duplicate Element : ");
         DublicateElements.dublicate(intArray);
 
+        int[] Array = {1,4,3,2,6,5,9,8,4,7,5,3}; // 9,8,6,5,4,3,2,1
+        System.out.println("First Duplicate Element : ");
+        FirstDuplicate.duplicateElements(Array);
+
     }
 
 
