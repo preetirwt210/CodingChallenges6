@@ -99,8 +99,11 @@ public class Main {
 //        int[] Array2={2,1,4,9,5};
 //        CommonElements.commonElements(Array1,Array2);
 
+//        int[] Array1 = {1,2,3,4,5,2,8,6};
+//        InsertElementInArray.insertElementInArray(Array1);
+
         int[] Array1 = {1,2,3,4,5,2,8,6};
-        InsertElementInArray.insertElementInArray(Array1);
+        DeleteElementInArray.delete(Array1);
 
     }
 
