@@ -19,5 +19,6 @@ public class FirstDuplicate {
         }else{
             System.out.println("No Such duplicate element present.");
         }
+
     }
 }
