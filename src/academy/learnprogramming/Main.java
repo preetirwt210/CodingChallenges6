@@ -95,9 +95,12 @@ public class Main {
 //        int[] Array = {1,2,3,4,5,6,7,8,9};
 //        EvenOddNumbers.evenOddNumbers(Array);
 
+//        int[] Array1 = {1,2,3,4,5,2,8,6};
+//        int[] Array2={2,1,4,9,5};
+//        CommonElements.commonElements(Array1,Array2);
+
         int[] Array1 = {1,2,3,4,5,2,8,6};
-        int[] Array2={2,1,4,9,5};
-        CommonElements.commonElements(Array1,Array2);
+        InsertElementInArray.insertElementInArray(Array1);
 
     }
 
