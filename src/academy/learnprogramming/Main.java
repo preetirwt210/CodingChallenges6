@@ -102,8 +102,8 @@ public class Main {
 //        int[] Array1 = {1,2,3,4,5,2,8,6};
 //        InsertElementInArray.insertElementInArray(Array1);
 
-        int[] Array1 = {1,2,3,4,5,2,8,6};
-        DeleteElementInArray.delete(Array1);
+//        int[] Array1 = {1,2,3,4,5,2,8,6};
+//        DeleteElementInArray.delete(Array1);
 
     }
 
