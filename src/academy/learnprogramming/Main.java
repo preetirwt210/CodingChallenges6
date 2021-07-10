@@ -105,15 +105,15 @@ public class Main {
 //        int[] Array1 = {1,2,3,4,5,2,8,6};
 //        DeleteElementInArray.delete(Array1);
 
-//        char str1[] = { 't', 'e', 's', 't' };
-//        char str2[] = { 't', 's', 'e', 't' };
-//
-//        if (AnagramOfString.areAnagram(str1, str2))
-//            System.out.println("The two strings are"
-//                    + " anagram of each other");
-//        else
-//            System.out.println("The two strings are not"
-//                    + " anagram of each other");
+        char str1[] = { 't', 'e', 's', 't' };
+        char str2[] = { 't', 's', 'e', 't' };
+
+        if (AnagramOfString.areAnagram(str1, str2))
+            System.out.println("The two strings are"
+                    + " anagram of each other");
+        else
+            System.out.println("The two strings are not"
+                    + " anagram of each other");
     }
     }
 
