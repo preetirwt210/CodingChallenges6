@@ -11,7 +11,7 @@ public class BinarySearch {
 
         while(li<=hi){
             if(intArray[mi]==search){
-                System.out.println("Element found at : " + mi + " index position");
+                Sy.println("Element found at : " + mi + " index position");
                 temp+=1;
                 break;
             }
